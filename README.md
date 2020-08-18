@@ -1,6 +1,10 @@
 # GDLE
 This repository should help automate level creation
-# Example
+## Installation
+``` bash
+git clone https://github.com/TheSidrym/GDLE.git
+```
+## Example
 ``` python
     from GeometryDash import *
     # Main thing
@@ -37,3 +41,5 @@ This repository should help automate level creation
         local.save(level())
         print("Completed.")
 ```
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
