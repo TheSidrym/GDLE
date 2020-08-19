@@ -6,7 +6,7 @@ git clone https://github.com/TheSidrym/GDLE.git
 ```
 ## Example
 ``` python
-    from GeometryDash import *
+    from GDLE import *
     # Main thing
     local = Local('CCLocalLevels.dat')
     level = Level()
